@@ -2,4 +2,5 @@ This is f1 in d1 dir
 change proj11 on master
 change again proj11 on master
 change on br2
-chg br2 5
+chg master 5
+chg br2 6
